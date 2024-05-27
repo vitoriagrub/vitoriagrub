@@ -4,5 +4,5 @@ estou estudando no Alura
 estou me desenvolvendo na linguagem JavaScript
 utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Você pode entrar em contato comigo 
+Você pode entrar em contato comigo
 vidalgvitoria@gmail.com
